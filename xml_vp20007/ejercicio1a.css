@@ -1,0 +1,21 @@
+/* ejercicio1a.css   VP20007  */
+nombre {
+    color: black;
+    font-size: 1cm;
+    display: block;
+}
+apellido {
+    color: pink;
+    font-size: 1cm;
+    display: block;
+}
+direccion{
+    color: black;
+    font-style: italic;
+    background-color: aliceblue;
+}
+
+ficha::before {
+    content: attr(fechaingreso);
+    color: rgb(255, 254, 254); font-weight: bold;
+}

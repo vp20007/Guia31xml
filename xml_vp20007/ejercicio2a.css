@@ -1,0 +1,13 @@
+/* ejercicio2a.css   VP20007  */
+idiomas{
+    color: blue;
+    display: block;
+    font-size: 1cm;
+}
+departamento {
+  color: black;
+  font-size: 1cm;
+  background-color: lightgreen;
+  display: block;
+}
+

@@ -1,0 +1,29 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@codigotel":"503",
+		"@areaterritorial":"12000km",
+		"@moneda":"USD",
+		"idiomas":{
+			"oficial":"Español",
+			"autoctono":"Náhuat",
+			"segundoidioma":"Ingles"
+		},
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Cuscatlan",
+				"cabecera":"Cojutepeque",
+				"habitantes":"232,238",
+				"altura":"588 MSNM"
+			}
+		]
+	}
+}

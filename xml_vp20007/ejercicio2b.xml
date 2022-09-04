@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2b.css" ?>
+<!-- ejemplo2.xml  VP20007 -->
+<pais nombre="El Salvador" codigotel="503" areaterritorial="12000km" moneda="USD">
+    <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Náhuat</autoctono>
+        <segundoidioma>Ingles</segundoidioma>
+    </idiomas>
+    <departamento id="1" nombre="San Salvador">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+        <superficie>72.25 km2</superficie>
+        <zona>Central</zona>
+    </departamento>
+    <departamento id="2" nombre="Cuscatlan">
+        <cabecera>Cojutepeque</cabecera>
+        <habitantes>232,238</habitantes>
+        <altura>588 MSNM</altura>
+        <superficie>756 km2</superficie>
+        <zona>Paracentral</zona>
+    </departamento>
+    <departamento id="3" nombre="Sonsonate">
+        <cabecera>Sonsonate</cabecera>
+        <habitantes>71,541</habitantes>
+        <altura>220 MSNM</altura>
+        <superficie>232.53 km2</superficie>
+        <zona>Occidental</zona>
+    </departamento>
+</pais>
