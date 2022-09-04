@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1a.css" ?>
+<!-- ejemplo1.xml  VP20007 -->
+<fichero>
+    <ficha id="1" fechaingreso="1/11/2012">
+        <nombre>Antonio</nombre>
+        <apellido>Barbero</apellido>
+        <direccion>Calle de Los Andes, 45</direccion>
+    </ficha>
+    <ficha id="2" fechaingreso="31/07/2022">
+        <nombre>Karla</nombre>
+        <apellido>Valladares</apellido>
+        <direccion>Calle de Los Andes, 55</direccion>
+        <telefono>23723435</telefono>
+        <email>vp20007@ues.edu.sv</email>
+        <website>https://github.com/vp20007</website>
+    </ficha>
+</fichero>

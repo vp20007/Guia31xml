@@ -1,0 +1,44 @@
+/* ejercicio1b.css   VP20007  */
+nombre{
+    color: pink;
+    background-color: black;
+    display: block;
+}
+
+apellido {
+  color: black;
+  background-color: pink;
+  display: inline;
+}
+direccion {
+  color: blue;
+  display: block;
+}
+telefono {
+  color: red;
+  display: inline;
+}
+email {
+  color: purple;
+  display: inline;
+}
+email {
+  color: green;
+  display: inline;
+}
+website {
+  color: purple;
+  display: inline;
+}
+dui {
+  display: block;
+}
+isss{
+    display: block;
+}
+afp{
+    display: block;
+}
+fichero{
+    font-size: 10 cm;
+}
